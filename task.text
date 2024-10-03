@@ -1,0 +1,18 @@
+1. create your controllers and routes and re arrage your work
+2. create an endpoint to get one booking
+
+3. create an endpoint to post booking
+4. create an endpoint to update a booking
+5. create an endpoint to delete a booking
+
+
+firstname
+lastname
+sex
+seat number
+seat category
+email
+marital status
+contact
+disability status
+duration
